@@ -33,3 +33,14 @@ rc-drawer
 ---
 
 react-custom-scrollbars - frictionless native browser scrolling, native scrollbars for mobile devices, fully customizable, auto hide, auto height
+
+---
+
+react-modal-video - React Modal Video Component
+
+Not affected by dom structure.
+Beautiful transition
+Accessible for keyboard navigation and screen readers.
+Rich options for youtube API and Vimeo API
+
+---
