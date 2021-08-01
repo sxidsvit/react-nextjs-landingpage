@@ -44,3 +44,33 @@ Accessible for keyboard navigation and screen readers.
 Rich options for youtube API and Vimeo API
 
 ---
+
+react-multi-carouse
+
+Production-ready, lightweight fully customizable React carousel component that rocks supports multiple items and SSR(Server-side rendering
+
+We are on a very excited journey towards version 3.0 of this component which will be rewritten in hooks/context completely. It means smaller bundle size, performance improvement and easier customization of the component and so many more benefits
+
+Features
+
+    Server-side rendering
+    Infinite mode
+    Dot mode
+    Custom animation
+    AutoPlay mode
+    Auto play interval
+    Supports images, videos, everything.
+    Responsive
+    Swipe to slide
+    Mouse drag to slide
+    Keyboard control to slide
+    Multiple items
+    Show / hide arrows
+    Custom arrows / control buttons
+    Custom dots
+    Custom styling
+    Accessibility support
+    Center mode.
+    Show next/previous set of items partially
+
+---

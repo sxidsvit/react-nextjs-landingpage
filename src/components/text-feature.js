@@ -27,7 +27,7 @@ export default function TextFeature({
         <Link href={btnURL} variant="default">
           <Button variant="primary" aria-label={btnName}>
             {btnName}
-          </Button> />
+          </Button>
         </Link>
       )}
     </Box>
