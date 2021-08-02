@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "asp-ads"
+  },
+  "targets":{
+    "asp-ads": {
+      "hosting": {
+        "asp-react-nextjs-landingpage": [
+          "asp-react-nextjs-landingpage"
+        ]
+      }
+    }
+  }
+}

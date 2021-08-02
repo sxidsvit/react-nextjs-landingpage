@@ -4,39 +4,37 @@ Next.js gives you the best developer experience with all the features you need f
 
 ---
 
-npm install
+`npm install`
 
-npm run dev => started server on http://localhost:3000
-
----
-
-В next.config.js потключаем библиотеку `next-optimized-images`, которая позволяет оптимизировать изображения
+`npm run dev` => started server on http://localhost:3000
 
 ---
 
-Специальные next.js файлы
-
-src\pages_app.js - импорт библиотек к которым должен быть обеспечен глобальный доступ
-
-src\pages_document.js - вносим измкекеия в первоначальный HTML р
+В `next.config.js` подключаем библиотеку `next-optimized-images`, которая позволяет оптимизировать изображения
 
 ---
 
-react-scroll - React component for animating vertical scrolling
+Специальные `next.js` файлы
 
-https://www.npmjs.com/package/react-scroll
+`src\pages_app.js` - импорт библиотек к которым должен быть обеспечен глобальный доступ
 
----
-
-rc-drawer
+`src\pages_document.js` - вносим изменения в первоначальный HTML
 
 ---
 
-react-custom-scrollbars - frictionless native browser scrolling, native scrollbars for mobile devices, fully customizable, auto hide, auto height
+`react-scroll` - React component for animating vertical scrolling
 
 ---
 
-react-modal-video - React Modal Video Component
+`rc-drawer`
+
+---
+
+`react-custom-scrollbars` - frictionless native browser scrolling, native scrollbars for mobile devices, fully customizable, auto hide, auto height
+
+---
+
+`react-modal-video` - React Modal Video Component
 
 Not affected by dom structure.
 Beautiful transition
@@ -45,7 +43,7 @@ Rich options for youtube API and Vimeo API
 
 ---
 
-react-multi-carouse
+`react-multi-carousel`
 
 Production-ready, lightweight fully customizable React carousel component that rocks supports multiple items and SSR(Server-side rendering
 
@@ -72,5 +70,9 @@ Features
     Accessibility support
     Center mode.
     Show next/previous set of items partially
+
+---
+
+`npm run build`
 
 ---
