@@ -3,7 +3,6 @@ import { jsx } from 'theme-ui';
 import { Text, Heading, Image, Box, Link } from 'theme-ui';
 
 export default function TeamCard({ src, altText, title, designation, social }) {
-  console.log('social: ', social);
   return (
     <Box sx={styles.card}>
       <Image src={src} alt={altText} sx={styles.memberThumb} />
